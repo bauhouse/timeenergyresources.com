@@ -45,7 +45,7 @@ We need to think like architects about the social, economic, and political impli
 - Economic: given what is possible, can we use the available time, energy, and resources to accomplish it?
 - Political: can we convince other people that it is important and valuable to invest in this course of action?
 
-This is metaphysical design. These are the intangibles that we cannot reduce to measurements. We must decide what we value, and there is no physical, empirical methods for discovering these things, unless we reduce people to numbers, which is what capitalism does to humans. Humans are merely numbers on a balance sheet.
+This is metaphysical design. These are the intangibles that we cannot reduce to measurements. We must decide what we value, and there are no physical, empirical methods for discovering these things, unless we reduce people to numbers, which is what capitalism does to humans. Humans are merely numbers on a balance sheet.
 
 ---
 
