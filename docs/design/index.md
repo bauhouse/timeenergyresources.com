@@ -48,10 +48,17 @@ On the other hand, there seems to be a relationship between the ideals that we c
 
 # Mental Models
 
-A mental model is what a person believes about experience and reality.
-In user experience design, a mental model is what the user believes about the system at hand.
+A mental model is what a person believes about experience and reality. In user experience design, a mental model is what the user believes about the system at hand.
 
 Mental models are in flux exactly because they’re embedded in a brain rather than fixed in an external medium. Additional experience with the system can obviously change the model, but users might also update their mental models based on stimuli from elsewhere, such as talking to other users or even applying lessons from other systems.
+
+https://www.nngroup.com/articles/mental-models/
+
+# Perception, Cognition, Emotion + Action
+
+In his talk, [Design for Engagement](https://www.youtube.com/watch?v=zBDx-02uAKA), Jesse James Garrett presents a mental model of human experience consisting of perception (senses), cognition (mind), emotion (heart), and action (body).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zBDx-02uAKA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Story 1: Collaboration
 
